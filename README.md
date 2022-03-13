@@ -5,3 +5,5 @@ Olá ! Seja bem vindo ao meu  livro de receitas:wave:
 
 
 - Feijoada
+- Strogonoff de Carne
+- Dobradinha
